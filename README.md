@@ -1,14 +1,15 @@
-👋 Hi, I'm @jmartinele (José Martinele)
+👋 Olá, sou @jmartinele (José Martinele)
 
-👀 I am interested in Web Development
+👀 Estou interessado em Desenvolvimento Web
 
-🌱 Currently, I am learning HTML5, CSS3, Javascript, NextJs, Angular 9, React, Node, VueJS, Webpack, Jquery, Express, Bootstrap, MongoDB, MySQL, TypeScript, among other technologies related to web development.
+🌱 Atualmente, estou aprendendo HTML5, CSS3, Javascript, NextJs, Angular 9, React, Node, VueJS, Webpack, Jquery, Express, Bootstrap, MongoDB, MySQL, TypeScript, dentre outras tecnologias relacionadas ao desenvolvimento Web.
 
-💞️ I'm looking to collaborate on web application development in both Frontend and Backend.
+💞️ Estou procurando colaborar em desenvolvimento de aplicações Web tanto em Frontend, quanto em Backend.
 
-📫 Contact me by email:
+📫 Contate-me por e-mail...
 
-I thank everyone!
+Agradeço a todos!
+
 
 <!---
 jmartinele/jmartinele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
