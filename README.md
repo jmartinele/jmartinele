@@ -6,7 +6,7 @@
 
 💞️ I'm looking to collaborate on web application development in both Frontend and Backend.
 
-📫 Contact me by email: jmartinele@gmail.com
+📫 Contact me by email:
 
 I thank everyone!
 
