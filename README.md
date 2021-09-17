@@ -2,7 +2,7 @@
 
 👀 Estou interessado em Desenvolvimento Web
 
-🌱 Atualmente, estou aprendendo HTML5, CSS3, Javascript, dentre outras tecnologias relacionadas ao desenvolvimento Web.
+🌱 Atualmente, estou aprendendo HTML5, CSS3, Javascript, node, react e mongodb, docker, dentre outras tecnologias relacionadas ao desenvolvimento Web.
 
 💞️ Estou procurando colaborar em desenvolvimento de aplicações Web tanto em Frontend, quanto em Backend.
 
